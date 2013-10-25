@@ -1,0 +1,3 @@
+DASHED2 lineas ocultas
+60 40
+35 20
